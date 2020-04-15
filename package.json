@@ -1,13 +1,12 @@
 {
-  "name": "react-template",
+  "name": "hello-test",
   "version": "1.0.0",
   "main": "dist/main.bundle.js",
-  "author": "tana-gh <yozoranotakaku@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "jest",
     "dev": "webpack-dev-server --config ./build/webpack.dev.config.js",
-    "build": "rm -rf dist && webpack --config ./build/webpack.prod.config.js"
+    "build": "webpack --config ./build/webpack.prod.config.js"
   },
   "dependencies": {
     "@babel/runtime": "^7.9.0",
