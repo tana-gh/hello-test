@@ -10,7 +10,7 @@ export default () => {
             <Mui.AppBar position="fixed">
                 <Mui.Toolbar>
                     <Mui.Typography>
-                        React Page
+                        (´・ω・｀)(*´ω`*)ﾊﾔﾙ {/* コメント そうそう なるほど */}
                     </Mui.Typography>
                 </Mui.Toolbar>
             </Mui.AppBar>
