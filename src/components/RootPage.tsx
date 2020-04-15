@@ -12,6 +12,9 @@ export default () => {
             <Mui.Fab onClick={onHelloButtonClick}>
                 <Icons.TouchApp/>
             </Mui.Fab>
+            <Mui.Button>
+                てすとボタン {/* あってるこれでいいのかはともかく */}
+            </Mui.Button>
         </div>
     )
 }
