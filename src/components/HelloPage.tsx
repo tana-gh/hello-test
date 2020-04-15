@@ -5,7 +5,7 @@ export default () => {
     return (
         <div>
             <Mui.Typography>
-                Hello, world!
+                Hello, world! And thank you today's session, by tana (^^)ﾉｼ
             </Mui.Typography>
         </div>
     )
