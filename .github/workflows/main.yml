@@ -9,7 +9,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          submodules: recursive
+          submodules: true
+          token: ${{ secrets.GITHUB_PAT }}
       - name: Get Yarn Cache Dir
         id: yarn-cache
         run: echo "::set-output name=dir::$(yarn cache dir)"
