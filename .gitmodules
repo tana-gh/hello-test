@@ -7,6 +7,3 @@
 [submodule "assets/font"]
 	path = assets/font
 	url = git@github.com:tana-gh/font-template.git
-[submodule "dist"]
-	path = dist
-	url = git@github.com:tana-gh/hello-test-page.git
