@@ -1,3 +1,4 @@
+yarn licenses v1.22.10
 info fsevents@2.3.2: The platform "linux" is incompatible with this module.
 info "fsevents@2.3.2" is an optional dependency and failed compatibility check. Excluding it from installation.
 info fsevents@1.2.13: The platform "linux" is incompatible with this module.
@@ -4044,3 +4045,4 @@ info "fsevents@1.2.13" is an optional dependency and failed compatibility check.
       ├─ URL: https://github.com/pieroxy/lz-string.git
       ├─ VendorName: pieroxy
       └─ VendorUrl: http://pieroxy.net/blog/pages/lz-string/index.html
+Done in 0.99s.
